@@ -3,7 +3,7 @@
 A collection of anonymous interviews with arriving refugees about their experiences to Sweden.
 
 ![ResidencyPermit]
-(https://raw.githubusercontent.com/refugeetech/RefugeeTech-Interviews/master/ResidencyPermitIMG.jpg)
+(https://raw.githubusercontent.com/refugeetech/RefugeeTech-Interviews/master/ResidencyPermit.jpg)
 
 # List of interviews
 
